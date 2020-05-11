@@ -55,5 +55,5 @@ switch(op){
         document.write("La potencia es: ", potencia(x,y));
         break;
     default:
-        document.write("Opcion no enontrada")
+        document.write("Opcion no encontrada")
 }
